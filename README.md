@@ -1,13 +1,12 @@
-name: Piyush Malhotra
-located_in: Calgary, Alberta
-current_job: Full Stack Developer
+```yaml
+name: Ebrar Yakup
+located_in: Skopje, North Macedonia
 education:
   [
-    "Self-Taught Developer and Designer",
-    "Master's in Electrical and Computer Engineering",
-    "Bachelor's in Electronics and Communication",
+    "Self-Taught Developer",
+    "Bachelor's in Computer Engineering",
   ]
-company: Soulber
+university: International Balkan University
 
 fields_of_interests:
   [
@@ -15,18 +14,15 @@ fields_of_interests:
     "Data Science",
     "Machine Learning",
     "UI/UX",
-    "Game Development",
-    "DevOps",
+    "AI",
   ]
 technical_background:
   [
     "Full Stack Developer"
-    "DevOps Solutions Architect",
-    "Intern - Data Science & Machine Learning in Python",
-    "Intern - Internet Of Things",
-    "Intern - VLSI and FPGA Implementation",
+    "Certified Front End Developer",
+    "Intern - Front End Developer in React.js",
   ]
   
-currently_learning: ["Docker, Kubernetes, and React Native"]
-2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
-hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
+currently_learning: ["Jupyter Notebook, Node.js, and Docker"]
+2026 Goals: ["Make my own startup, learn about how to use AI efficiently as much as possible..."]
+```
