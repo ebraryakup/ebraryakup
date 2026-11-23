@@ -1,4 +1,4 @@
-<About ME />
+👨🏻‍💻  A Little Bit About Me
 
 ```yaml
 name: Ebrar Yakup
